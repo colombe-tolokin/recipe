@@ -1,3 +1,5 @@
+Let's begin!
+
 Ingredients: 
 
 For the Crust:
@@ -11,3 +13,5 @@ For the Creamy Cheesecake:
 5 large eggs room temperature
 3 large egg yolks room temperature
 1/2 cup (113 grams) heavy cream room temperature
+
+Enjoy my recipe!
