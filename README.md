@@ -14,3 +14,5 @@ A recipe to have a tasty cheesecake
 
 last line changed locally
 ### This is a LOCAL change :)
+
+![Cheesecake](https://bakerbynature.com/wp-content/uploads/2018/05/extrathickandcreamycheesecake1234-1-of-1.jpg)
